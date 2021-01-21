@@ -11,8 +11,8 @@ from setuptools import setup, find_packages
 #             "kombu==3.0.30", "requests==2.21.0", "urllib3==1.24.3"]  # 需要安装的第三方依赖
 
 setup(
-    name="shopex-dingding-notify-2.x",
-    version=3.0,
+    name="shopex-dingding-notify-2.x.x",
+    version=1.0,
     description="ShopEx dingding notify for python",
     long_description_content_type=open("README.md").read(),
     packages=find_packages(),

@@ -13,7 +13,7 @@
     
     二、推荐使用
         
-    pip install -i https://pypi.org/simple/ shopex-dingding-notify-2.x
+    pip install -i https://pypi.org/simple/ shopex-dingding-notify-2.x.x
 
 使用方式
     
